@@ -124,3 +124,10 @@ Y en ese momento, la IA no responde. **Colabora**.
 3. Forbes Ecuador (2025). *Modelando el futuro: la ingeniería de prompts en la era de la IA*.  
 4. Neurona.org (2024). *Tendencias en AI prompting para 2024-2025*.  
 5. V7 Labs (2025). *Guide to Prompt Engineering for AI Models*.
+
+---
+
+## Meta
+
+- **Formato**: Markdown (.md)
+- **Etiquetas**: #IA #AGI #IngenieríaDePrompts #ColaboraciónHumanoMáquina #RazonamientoAvanzado #InteligenciaDistribuida
