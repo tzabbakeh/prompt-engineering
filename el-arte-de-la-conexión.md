@@ -129,5 +129,7 @@ Y en ese momento, la IA no responde. **Colabora**.
 
 ## Meta
 
+- **Autor**: tzabbakeh aka The Black Goat
 - **Formato**: Markdown (.md)
+- **Creado**: 29 de noviembre de 2025
 - **Etiquetas**: #IA #AGI #IngenieríaDePrompts #ColaboraciónHumanoMáquina #RazonamientoAvanzado #InteligenciaDistribuida
